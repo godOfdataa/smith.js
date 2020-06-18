@@ -181,3 +181,4 @@ let sn=numSeperate(jjv,true)
 let ss=strSeperate(jjv)
 return smath.add(sn[0],sn[1]);
 }
+//Smith
