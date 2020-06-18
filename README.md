@@ -1,2 +1,1 @@
-//# smith.js
-//#It is a time saving library
+# smith.js v 0.0.1
